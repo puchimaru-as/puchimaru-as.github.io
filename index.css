@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Actor');
+
+* {
+    font-family: Actor;
+  }
+   
+   
+  h1 {
+    color: rgb(32, 66, 139);
+  }
+   
+   
+  p, 
+  li {
+    font-size: 18px;
+    color: rgb(115, 149, 223);
+  }
+   
+   
+  a {
+    text-decoration: underline;
+    color: inherit;
+  }
